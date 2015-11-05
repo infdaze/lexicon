@@ -2,7 +2,7 @@
 * `~` : This symbol means "home" on the UNIX command line.
 * `/` : This symbol means "root", the ultimate parent directory.
 * `whoami` : This makes the terminal output the current user name.
-* `pwd` : put a password on a file
+* `pwd` : tell me where I currently am in the file hierarchy
 * `cd` : change directory
 * `ls` :  list contents of a directory
 * `cd ..` : change your current directory up a level
